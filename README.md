@@ -1,7 +1,7 @@
 ## About the project
 
 
-This is a disinfectant dispenser that uses a webscraper to get data about COVID-19 form the internet. It serves as an academic project for the local Microsoft Learn Student Ambassadors organization.
+This is a disinfectant dispenser that uses a webscraper to get data about COVID-19 from the internet. It serves as an academic project for the local Microsoft Learn Student Ambassadors organization.
 
 The webscraper is created with Python, using Selenium. It connects to a website providing local data and scrapes it from a table. The data is then provided to the local server.
 
