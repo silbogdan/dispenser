@@ -15,8 +15,8 @@ const int pumpPin = 4;  // D2
 long duration;
 int distance;
  
-const char* ssid = "Bogdan Network";
-const char* password = "vulpixb22";
+const char* ssid = "NETWORK";
+const char* password = "PASSWORD";
 
 String payload;
 
